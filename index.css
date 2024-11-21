@@ -1,0 +1,20 @@
+div{
+  max-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: purple;
+  color: wheat;
+}
+
+h1{
+  text-align: center;
+}
+
+h4{
+  text-align: center;
+  font-size: 70dp;
+}
+
+body{
+  background-color: purple;
+}
